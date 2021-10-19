@@ -31,7 +31,7 @@ int main()
 			 else if(compare(s,"BANGLADESH")==0)
 		    printf("capital=Dhaka\n");
 			else	if(compare(s,"SRI LNAKA")==0)
-			printf("capital=Colombo\n");
+			printf("al=Colombo\n");
 			else if(compare(s,"ENGLAND")==0)
 			printf("capital=London\n");
 		
