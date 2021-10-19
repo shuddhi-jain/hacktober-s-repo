@@ -10,7 +10,7 @@ int main()
 	int a[r][c],b[p][q],k[r][c];
 	if(r==p&&c==q)
 	{
-		printf("enter number for first matrix");
+		printf(" for first matrix");
 		for(i=0;i<r;i++)
 		{
 			for(j=0;j<c;j++)
