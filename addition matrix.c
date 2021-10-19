@@ -3,7 +3,7 @@
 int main()
 {
 	int r,c,p,q,i,j;
-	printf("enter row and column for first matrix");
+	printf("enter row and column for the first matrix");
 	scanf("%d%d",&r,&c);
 		printf("enter row and column for second matrix");
 	scanf("%d%d",&p,&q);
