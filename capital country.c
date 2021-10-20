@@ -37,8 +37,8 @@ int main()
 			else if(compare(s,"ENGLAND")==0){
 			printf("Capital=London\n");}
 		
-			else if(compare(s,"GERMANY")==0){
-			printf("Capital=Berlin\n");}
+			else if(compare(s,"UNITED STATES AMERICA")==0){
+			printf("Capital=Washington D.C\n");}
 	
 			else{
 			printf("Don't Know\n");}
