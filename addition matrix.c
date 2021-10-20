@@ -15,9 +15,11 @@ int main()
 		{
 			for(j=0;j<c;j++)
 			{
-				//hello
+
+
 				
-			//printf("enter number for first matrix");
+			printf("enter number for first matrix");
+
 			scanf("%d",&a[i][j]);
 		}}
 			printf("enter number for second matrix");
@@ -25,7 +27,6 @@ int main()
 		{
 			for(j=0;j<c;j++)
 			{
-			//printf("enter number for second matrix");
 		    scanf("%d",&b[i][j]);
 			
 		}}
